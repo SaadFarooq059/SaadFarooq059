@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/SaadFarooq059/SaadFarooq059/blob/e69bc5766ee017e0ea85ef15d5ec63d718ac9fe7/1.png"  />
+  <img height="200" src="https://github.com/SaadFarooq059/SaadFarooq059/blob/e69bc5766ee017e0ea85ef15d5ec63d718ac9fe7/1.png" />
 </div>
 
 ###
@@ -11,7 +11,7 @@
 <p align="left">
 Security Software Engineer focused on building <b>secure, scalable backend systems</b> and identifying vulnerabilities before attackers do.<br><br>
 
-I specialize in <b>Golang backend development</b> combined with <b>Application Security (AppSec)</b>, working on APIs, microservices, and distributed systems with a strong security-first approach.<br><br>
+I specialize in <b>Golang and TypeScript (Node.js) backend development</b> combined with <b>Application Security (AppSec)</b>, working on APIs, microservices, and distributed systems with a strong security-first approach.<br><br>
 
 Experienced in designing and securing systems using <b>AWS, Docker, Kafka, Redis</b>, and modern backend architectures. I actively apply <b>penetration testing, vulnerability assessment, and secure coding practices</b> to real-world applications.<br><br>
 
@@ -27,13 +27,13 @@ I build systems — and I break them to make them stronger.
 <p align="left">
 🔐 Focus: Backend Engineering + Application Security<br><br>
 
-⚙️ Tech Stack: Golang, APIs, Microservices, PostgreSQL, Redis, Kafka, AWS<br><br>
+⚙️ Tech Stack: Golang, TypeScript (Node.js), APIs, Microservices, PostgreSQL, Redis, Kafka, AWS<br><br>
 
 🛡️ Security: OWASP Top 10, API Security, Pentesting, Secure Architecture<br><br>
 
 🚀 Currently: Building secure backend systems and improving bug bounty skills<br><br>
 
-🎯 Goal: Become a Security Software Engineer / AppSec Engineer working on high-scale, secure systems
+🎯 Goal: Security Software Engineer / Application Security Engineer working on large-scale systems
 </p>
 
 ###
@@ -43,23 +43,27 @@ I build systems — and I break them to make them stronger.
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql" height="40" alt="postgresql logo" />
+  <img src="https://cdn.simpleicons.org/typescript" height="40" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/redis" height="40" alt="redis logo" />
+  <img src="https://cdn.simpleicons.org/node.js" height="40" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachekafka" height="40" alt="kafka logo" />
+  <img src="https://cdn.simpleicons.org/postgresql" height="40" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker" height="40" alt="docker logo" />
+  <img src="https://cdn.simpleicons.org/redis" height="40" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes" height="40" alt="kubernetes logo" />
+  <img src="https://cdn.simpleicons.org/apachekafka" height="40" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws" height="40" alt="aws logo" />
+  <img src="https://cdn.simpleicons.org/docker" height="40" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux" height="40" alt="linux logo" />
+  <img src="https://cdn.simpleicons.org/kubernetes" height="40" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python" height="40" alt="python logo" />
+  <img src="https://cdn.simpleicons.org/amazonaws" height="40" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux" height="40" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python" height="40" />
 </div>
 
 ###
@@ -69,12 +73,15 @@ I build systems — and I break them to make them stronger.
 ###
 
 <p align="left">
-• Secure API Development (Authentication, Authorization, Rate Limiting)<br>
+• Secure API Development (Golang & Node.js)<br>
+• Authentication & Authorization (JWT, OAuth2, RBAC)<br>
+• API Security (Rate Limiting, Input Validation, Middleware Security)<br>
 • Penetration Testing (Web & APIs)<br>
+• OWASP Top 10 (SQL Injection, XSS, IDOR, CSRF)<br>
+• Secure Coding in Go & TypeScript<br>
 • Vulnerability Assessment & Bug Bounty<br>
-• Secure Coding & Threat Mitigation<br>
-• System Design with Security-first Approach<br>
-• Recon & Fuzzing (Subdomains, Endpoints, Attack Surface)
+• Recon & Fuzzing (Subdomains, APIs, Endpoints)<br>
+• Logging, Monitoring & Threat Detection
 </p>
 
 ###
