@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋 I'm PBX1</h1>
 
 ###
 
@@ -8,62 +8,88 @@
 
 ###
 
-<p align="left">Hey there! I’m PBX1, a digital detective who excels at unmasking vulnerabilities and orchestrating AI symphonies. With a dual passion for Ethical Hacking and Backend Development, I’m like a cyber-sleuth by day and a code-wizard by night. Think of me as the Sherlock Holmes of security and the Gandalf of backend systems—always on the lookout for threats and weaving magical algorithms to make the web a safer place.<br><br>Whether you’re here to dive into my latest AI experiments, explore my backend sorcery, or just want to chat about the latest in ethical hacking, you’ve come to the right place. Let’s build, break, and innovate together!</p>
+<p align="left">
+Security Software Engineer focused on building <b>secure, scalable backend systems</b> and identifying vulnerabilities before attackers do.<br><br>
+
+I specialize in <b>Golang backend development</b> combined with <b>Application Security (AppSec)</b>, working on APIs, microservices, and distributed systems with a strong security-first approach.<br><br>
+
+Experienced in designing and securing systems using <b>AWS, Docker, Kafka, Redis</b>, and modern backend architectures. I actively apply <b>penetration testing, vulnerability assessment, and secure coding practices</b> to real-world applications.<br><br>
+
+I build systems — and I break them to make them stronger.
+</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since: The dawn of my coding journey, where every bug was a lesson in disguise.<br><br>📚 I'm currently learning: Advanced techniques in AI and the latest trends in backend architecture. Always on the lookout for the next big thing in ethical hacking too!<br><br>🎯 Goals: To fuse my ethical hacking prowess with AI and backend skills to create innovative solutions that keep the digital world safe and efficient. Oh, and maybe build the next big thing in tech while I’m at it!<br><br>🎲 Fun fact: I once debugged a piece of code so elusive that even the code itself was confused. True story.</p>
+<p align="left">
+🔐 Focus: Backend Engineering + Application Security<br><br>
+
+⚙️ Tech Stack: Golang, APIs, Microservices, PostgreSQL, Redis, Kafka, AWS<br><br>
+
+🛡️ Security: OWASP Top 10, API Security, Pentesting, Secure Architecture<br><br>
+
+🚀 Currently: Building secure backend systems and improving bug bounty skills<br><br>
+
+🎯 Goal: Become a Security Software Engineer / AppSec Engineer working on high-scale, secure systems
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/redis" height="40" alt="redis logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="apachekafka logo"  />
+  <img src="https://cdn.simpleicons.org/apachekafka" height="40" alt="kafka logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img src="https://cdn.simpleicons.org/docker" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.simpleicons.org/kubernetes" height="40" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img src="https://cdn.simpleicons.org/amazonaws" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.simpleicons.org/linux" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
+  <img src="https://cdn.simpleicons.org/python" height="40" alt="python logo" />
 </div>
 
 ###
 
+<h2 align="left">Security & Engineering Focus</h2>
+
+###
+
+<p align="left">
+• Secure API Development (Authentication, Authorization, Rate Limiting)<br>
+• Penetration Testing (Web & APIs)<br>
+• Vulnerability Assessment & Bug Bounty<br>
+• Secure Coding & Threat Mitigation<br>
+• System Design with Security-first Approach<br>
+• Recon & Fuzzing (Subdomains, Endpoints, Attack Surface)
+</p>
+
+###
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SaadFarooq059/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/SaadFarooq059/count.svg?" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/saadfarooq059/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
   <a href="https://x.com/pbx1122/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-
-###
